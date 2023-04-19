@@ -1,0 +1,8 @@
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Onfailure\bin\Debug\Onfailure.exe.config
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Onfailure\bin\Debug\Onfailure.exe
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Onfailure\bin\Debug\Onfailure.pdb
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Onfailure\obj\Debug\Onfailure.csproj.AssemblyReference.cache
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Onfailure\obj\Debug\Onfailure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Onfailure\obj\Debug\Onfailure.csproj.CoreCompileInputs.cache
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Onfailure\obj\Debug\Onfailure.exe
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Onfailure\obj\Debug\Onfailure.pdb

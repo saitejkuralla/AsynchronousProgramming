@@ -1,0 +1,8 @@
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Fire and Forget\bin\Debug\Fire and Forget.exe.config
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Fire and Forget\bin\Debug\Fire and Forget.exe
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Fire and Forget\bin\Debug\Fire and Forget.pdb
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Fire and Forget\obj\Debug\Fire and Forget.csproj.AssemblyReference.cache
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Fire and Forget\obj\Debug\Fire and Forget.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Fire and Forget\obj\Debug\Fire and Forget.csproj.CoreCompileInputs.cache
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Fire and Forget\obj\Debug\Fire and Forget.exe
+C:\Users\Saikiran_Bekkanti\source\repos\Fire and Forget\Fire and Forget\obj\Debug\Fire and Forget.pdb

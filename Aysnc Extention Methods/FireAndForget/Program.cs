@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Fire_and_Forget
+﻿namespace Fire_and_Forget
 {
     class Program
     {
@@ -15,7 +9,7 @@ namespace Fire_and_Forget
                 await LongRunningOperation();
             }).FireAndForget(ex =>
             {
-               
+
                 Console.WriteLine($"An error occurred: {ex.Message}");
             });
 
@@ -26,7 +20,7 @@ namespace Fire_and_Forget
         static async Task LongRunningOperation()
         {
             await Task.Delay(3000);
-       throw new Exception();
+            throw new Exception();
         }
     }
 
@@ -40,6 +34,6 @@ namespace Fire_and_Forget
                     errorHandler(t.Exception);
             }, TaskContinuationOptions.OnlyOnFaulted);
         }
-        
+
     }
 }

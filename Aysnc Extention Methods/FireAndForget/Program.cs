@@ -1,6 +1,6 @@
 ﻿namespace Fire_and_Forget
 {
-    class Program
+    internal static class Program
     {
         static void Main(string[] args)
         {
@@ -22,10 +22,7 @@
             await Task.Delay(3000);
             throw new Exception();
         }
-    }
 
-    public static class TaskExtensions
-    {
         public static void FireAndForget(this Task task, Action<Exception> errorHandler = null)
         {
             task.ContinueWith(t =>
@@ -35,5 +32,8 @@
             }, TaskContinuationOptions.OnlyOnFaulted);
         }
 
+
     }
+
+
 }
